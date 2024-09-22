@@ -1,0 +1,1 @@
+This assignment is about file handling within python
